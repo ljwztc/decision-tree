@@ -8,7 +8,7 @@ This is a project in AI course teached by Prof.Li
 c45中为主要源码  
 data中为一些数据集  
 README in ece657_project.md 为原项目的read me  
-Missing_data_and_testing 中为基于ID3的miss data实现
+Missing_data_and_testing 中为基于ID3的missing data实现
 
 ## 贡献者
 项目改进工作由Hanxue GU、Jie LIU 、Jingxuan PANG、Jiankai TU共同完成
